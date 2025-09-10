@@ -1,2 +1,1 @@
-printf("Github");
-printf("oi pessoas");
+pritntf("Gabriel");
